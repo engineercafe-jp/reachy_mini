@@ -1,0 +1,6 @@
+[submodule "reachy-mini-desktop-app"]
+	path = reachy-mini-desktop-app
+	url = https://github.com/pollen-robotics/reachy-mini-desktop-app
+[submodule "reachy_mini"]
+	path = reachy_mini
+	url = https://github.com/pollen-robotics/reachy_mini
