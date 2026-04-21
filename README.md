@@ -4,7 +4,11 @@
 
 Reachy Miniのシミュレーション環境を構築し、SDKの機能を検証する。
 
-## シミュレーション起動
+## シミュレーション（Google Colab）
+
+[Google Colab](https://colab.research.google.com/github/engineercafe-jp/reachy_mini/blob/main/simulation.ipynb)
+
+## シミュレーション（macOS）
 
 ### 初回セットアップ
 
